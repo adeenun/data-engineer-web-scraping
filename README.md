@@ -1,5 +1,5 @@
-# Data engineering web scraping
-This test project is including in technical Data Engineer test, the project consists of 2 section, including Scraping project and ETL project
+# Data Engineer Web Scraping
+This test project is including in technical Data Engineer web scraping, the project consists of 2 section, including Scraping project and ETL project
 
 ## Scraping Projcet
 Scrape these 3 websites StockX, Poizon, and SNKR DUNK
